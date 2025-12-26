@@ -1,2 +1,2 @@
 # database
-để database ở đây nhé
+để metadataở đây nhé
